@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "block",
+    "python.pythonPath": "C:\\DevEnvs\\Django\\powerupdjango\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
