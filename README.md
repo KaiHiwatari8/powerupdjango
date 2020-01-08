@@ -5,17 +5,17 @@ This is done in partnership w/ HimanCodes
 
 This is a private repo created to learn Django 3.0.2.
 
-Used utilities are:\n
-  \tMS Visual Code\n
-  \tWindows Terminal(Preview)\n
-  \tGoogle Chrome\n
-  \tGitHub SCM\n
+Used utilities are:
+  MS Visual Code
+  Windows Terminal(Preview)
+  Google Chrome
+  GitHub SCM
 
-Topics Covered on 1/7/2020:\n
-  \tInstalling and creating the HelloWorld Django project\n
-  \tCreating the first app\n
-  \tManage.py in Terminal\n
-  \tModels\n
+Topics Covered on 1/7/2020:
+  Installing and creating the HelloWorld Django project
+  Creating the first app
+  Manage.py in Terminal
+  Models
   Homepage
   Templates, context, and apps rendering
   Customizing and rerouting URLs
