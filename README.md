@@ -1,5 +1,5 @@
 # PowerUpDjango with MayBeJay 
-###This is done in partnership w/ HimanCodes
+This is done in partnership w/ HimanCodes
 
 >I have a secret universe at 127.0.0.1:8000.:sunglasses:
 
