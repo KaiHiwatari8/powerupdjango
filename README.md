@@ -1,4 +1,5 @@
-# PowerUpDjango with MayBeJay in partnership w/ HimanCodes
+# PowerUpDjango with MayBeJay 
+This is done in partnership w/ HimanCodes
 
 "I have a secret universe: 127.0.0.1:8000."
 
