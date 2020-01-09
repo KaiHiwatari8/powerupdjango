@@ -9,7 +9,7 @@ Used utilities:\
 &nbsp;&nbsp;&nbsp;-MS Visual Code\
 &nbsp;&nbsp;&nbsp;-Windows Terminal(Preview)\
 &nbsp;&nbsp;&nbsp;-Google Chrome\
-&nbsp;&nbsp;&nbsp;-Git SCM
+&nbsp;&nbsp;&nbsp;-Git SCM\
 &nbsp;&nbsp;&nbsp;-GitHub
 
 Topics Covered on 1/7/2020:\
