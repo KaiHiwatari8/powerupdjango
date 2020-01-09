@@ -9,7 +9,7 @@ Used utilities:\
 &nbsp;&nbsp;&nbsp;-MS Visual Code\
 &nbsp;&nbsp;&nbsp;-Windows Terminal(Preview)\
 &nbsp;&nbsp;&nbsp;-Google Chrome\
-&nbsp;&nbsp;&nbsp;-GitHub SCM\
+&nbsp;&nbsp;&nbsp;-GitHub SCM
 
 Topics Covered on 1/7/2020:\
 &nbsp;&nbsp;&nbsp;-Installing and creating the HelloWorld Django project\
@@ -18,7 +18,7 @@ Topics Covered on 1/7/2020:\
 &nbsp;&nbsp;&nbsp;-Models\
 &nbsp;&nbsp;&nbsp;-Homepage\
 &nbsp;&nbsp;&nbsp;-Templates, context, and apps rendering\
-&nbsp;&nbsp;&nbsp;-Customizing and rerouting URLs\
+&nbsp;&nbsp;&nbsp;-Customizing and rerouting URLs
 
 
 Topics covered on 1/8/2020:\
@@ -26,4 +26,4 @@ Topics covered on 1/8/2020:\
 &nbsp;&nbsp;&nbsp;-Pure Django Forms\
 &nbsp;&nbsp;&nbsp;-Forms Widget\
 &nbsp;&nbsp;&nbsp;-Form Validation Methods\
-&nbsp;&nbsp;&nbsp;-Rendering Forms with initial values\
+&nbsp;&nbsp;&nbsp;-Rendering Forms with initial values
