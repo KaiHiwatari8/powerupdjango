@@ -9,7 +9,8 @@ Used utilities:\
 &nbsp;&nbsp;&nbsp;-MS Visual Code\
 &nbsp;&nbsp;&nbsp;-Windows Terminal(Preview)\
 &nbsp;&nbsp;&nbsp;-Google Chrome\
-&nbsp;&nbsp;&nbsp;-GitHub SCM
+&nbsp;&nbsp;&nbsp;-Git SCM
+&nbsp;&nbsp;&nbsp;-GitHub
 
 Topics Covered on 1/7/2020:\
 &nbsp;&nbsp;&nbsp;-Installing and creating the HelloWorld Django project\
