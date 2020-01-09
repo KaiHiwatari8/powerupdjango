@@ -19,3 +19,11 @@ Topics Covered on 1/7/2020:\
 &nbsp;&nbsp;&nbsp;-Homepage\
 &nbsp;&nbsp;&nbsp;-Templates, context, and apps rendering\
 &nbsp;&nbsp;&nbsp;-Customizing and rerouting URLs\
+
+
+Topics covered on 1/8/2020:\
+&nbsp;&nbsp;&nbsp;-Model Forms
+&nbsp;&nbsp;&nbsp;-Pure Django Forms
+&nbsp;&nbsp;&nbsp;-Forms Widget
+&nbsp;&nbsp;&nbsp;-Form Validation Methods
+&nbsp;&nbsp;&nbsp;-Rendering Forms with initial values
