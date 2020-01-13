@@ -32,3 +32,13 @@ Topics covered on 1/8/2020:\
 Topics covered on 1/9/2020:\
 &nbsp;&nbsp;&nbsp;-Dynamic URL routing\
 &nbsp;&nbsp;&nbsp;-Handling Error 404
+
+Topics covered from 1/9 to 1/12/2020:\
+&nbsp;&nbsp;&nbsp;-Using Class-based views\
+&nbsp;&nbsp;&nbsp;-Converting function-based views to class-based views\
+&nbsp;&nbsp;&nbsp;-Using raw views\
+&nbsp;&nbsp;&nbsp;-Importing STATIC files
+
+With all this, I have concluded learning Django under PowerUpDjango. Learning push has been forbidden to this repository unless required.
+
+*"Django Bancho sahi cheez hai!"*
