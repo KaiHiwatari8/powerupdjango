@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'rl**jqt4&hkkehb$%3vr-!8##_jz-!v5byy0zsxk_$x@cz@2vz'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = True    
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['powerupdjango', '127.127.127.127', ]
 
 
 # Application definition

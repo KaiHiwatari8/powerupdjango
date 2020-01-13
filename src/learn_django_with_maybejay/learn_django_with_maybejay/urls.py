@@ -20,10 +20,12 @@ import firstapp.views as fv
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home/', fv.product_details_view, name='home'),
+    #path('home/', fv.product_details_view, name='home'),
     path('details/', fv.product_details_view, name='home'),
-    path('', fv.product_details_view, name='home'),
+    #path('', fv.product_details_view, name='home'),
     path('products/', fv.product_details_view),
     path('create/', fv.product_create_view),
-    path('products/<int:product_id>/', fv.dynamic_lookup_view, name='product')
+    path('products/<int:product_id>/', fv.dynamic_lookup_view, name='product'),
+    path('products/<int:id>/delete', fv.product_delete_view, name='delete'),
+    path('products/list/', fv.product_list_view)
 ]
