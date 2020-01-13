@@ -25,7 +25,7 @@ SECRET_KEY = 'rl**jqt4&hkkehb$%3vr-!8##_jz-!v5byy0zsxk_$x@cz@2vz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True    
 
-ALLOWED_HOSTS = ['powerupdjango', '127.127.127.127', ]
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'firstapp',
+    'accounts',
 ]
 
 MIDDLEWARE = [
