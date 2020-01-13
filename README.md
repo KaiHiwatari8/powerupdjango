@@ -28,3 +28,7 @@ Topics covered on 1/8/2020:\
 &nbsp;&nbsp;&nbsp;-Forms Widget\
 &nbsp;&nbsp;&nbsp;-Form Validation Methods\
 &nbsp;&nbsp;&nbsp;-Rendering Forms with initial values
+
+Topics covered on 1/9/2020:\
+&nbsp;&nbsp;&nbsp;-Dynamic URL routing\
+&nbsp;&nbsp;&nbsp;-Handling Error 404
