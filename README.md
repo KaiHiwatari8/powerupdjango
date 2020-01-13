@@ -37,7 +37,9 @@ Topics covered from 1/9 to 1/12/2020:\
 &nbsp;&nbsp;&nbsp;-Using Class-based views\
 &nbsp;&nbsp;&nbsp;-Converting function-based views to class-based views\
 &nbsp;&nbsp;&nbsp;-Using raw views\
-&nbsp;&nbsp;&nbsp;-Importing STATIC files\
+&nbsp;&nbsp;&nbsp;-Importing STATIC files
+
+Topics covered on 1/13/2020:\
 &nbsp;&nbsp;&nbsp;-Signing up a user\
 &nbsp;&nbsp;&nbsp;-Logging in a user
 
