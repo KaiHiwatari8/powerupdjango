@@ -40,3 +40,5 @@ Topics covered from 1/9 to 1/12/2020:\
 &nbsp;&nbsp;&nbsp;-Importing STATIC files
 
 With all this, I have concluded learning Django under PowerUpDjango. Learning push has been forbidden to this repository unless required.
+
+* *"Django Bancho sahi cheez hai!"* *
